@@ -1,0 +1,13 @@
+package com.libreria.clase7;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Driver {
+	WebDriver driver;
+	
+	public void navegadorGoogle() {
+		driver = new ChromeDriver();
+	}
+
+}

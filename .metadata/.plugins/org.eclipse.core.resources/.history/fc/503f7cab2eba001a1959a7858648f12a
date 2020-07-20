@@ -1,0 +1,16 @@
+package tareaClase4;
+
+public class Carro {
+
+	private int numeroPuertas;
+	private String conbustion;
+	private int cantidadLlantas;
+	private String transmision;
+
+	public Carro() {
+		numeroPuertas = 0;
+		conbustion = null;
+		cantidadLlantas = 0;
+		transmision = null;
+	}
+}

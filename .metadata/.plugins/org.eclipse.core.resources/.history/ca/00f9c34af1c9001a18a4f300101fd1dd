@@ -1,0 +1,15 @@
+package com.libreria.clase7;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Driver {
+	WebDriver driver;
+	
+	public void navegadorGoogle() {
+		String rutaDriver ="";
+    	System.setProperty("webdriver.chrome.driver", rutaDriver);
+		driver = new ChromeDriver();
+	}
+
+}

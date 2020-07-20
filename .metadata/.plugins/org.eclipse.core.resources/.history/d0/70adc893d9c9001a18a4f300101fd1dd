@@ -1,0 +1,22 @@
+package com.libreria.practicaClase6;
+
+public class Fibonacci {
+
+	public static void main(String[] args) {
+
+		fibonacci(20);
+
+		long elQueVaEnLa20 = fibonacciRecursivo(20);
+		System.out.println("El que va en la posición 20 es " + elQueVaEnLa20);
+	}
+
+	private static void fibonacci(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static long fibonacciRecursivo(int i) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+}

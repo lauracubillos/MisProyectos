@@ -1,0 +1,17 @@
+package com.libreria.practicaClase6;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
+	public static void main(String[] args) {
+
+	}
+
+	public static long fibonacciRecursivo(long posicion) {
+		if (posicion < 2)
+			return posicion;
+		return fibonacciRecursivo(posicion - 1) + fibonacciRecursivo(posicion - 2);
+	}
+}

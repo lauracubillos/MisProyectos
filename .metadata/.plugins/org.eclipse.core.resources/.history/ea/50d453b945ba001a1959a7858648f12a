@@ -1,0 +1,24 @@
+package tareaClase4;
+
+public class Carro {
+
+	private String colorCarro;
+	
+	
+	public Carro() {
+		
+		colorCarro = null;
+		
+
+	}
+
+
+	public String getColorCarro() {
+		return colorCarro;
+	}
+
+
+	public void setColorCarro(String colorCarro) {
+		this.colorCarro = colorCarro;
+	}
+}

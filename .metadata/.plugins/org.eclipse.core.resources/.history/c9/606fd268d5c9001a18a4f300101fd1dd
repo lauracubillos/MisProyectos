@@ -1,0 +1,39 @@
+package com.sophos.maven;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+import com.libreria.LibreriaClase.FuncionesMatematicas.FuncionesAritmeticas;
+
+/**
+ * Hello world!
+ *
+ */
+
+public class App {
+	public static void main(String[] args) {
+		Entradas_Salidas objIO = new Entradas_Salidas();
+		objIO.entradasConsola();
+
+	}
+
+	public void clase6() {
+		
+		FuncionesAritmeticas obj = new FuncionesAritmeticas();
+		System.out.println(obj.suma(5, 45));
+
+		WebDriver driver = new FirefoxDriver();
+		driver.get("");
+	}
+}
+//    {
+//        System.out.println( "Hello World!" );
+//        for(int i = 1; i<= 10;i ++){
+//			System.out.println( ">>"+i );
+//
+//       }
+//    }
+//    public int suma(int a, int b) {
+//    	return a+b;
+//    }
+//}
