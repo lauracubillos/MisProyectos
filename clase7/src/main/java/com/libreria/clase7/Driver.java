@@ -7,6 +7,11 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class Driver {
 	WebDriver driver;
+	public Driver() {
+		
+	}
+		
+	
 	
 	public void navegadorGoogle() {
 		String rutaDriver = ".\\src\\main\\java\\resources\\Drivers\\chromedriver.exe";
@@ -32,4 +37,5 @@ public class Driver {
 			driver.get("https://www.google.com/");
 			driver.close();
 	}
+
 }

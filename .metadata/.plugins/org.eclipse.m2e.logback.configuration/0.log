@@ -2028,3 +2028,116 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (3) references 
 2020-07-20 10:59:17,082 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-20 10:59:17,083 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\main\resources
 2020-07-20 10:59:17,084 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 10:59:17,085 [Worker-361: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\test\resources
+2020-07-20 11:57:33,696 [Worker-371: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\laura.cubillos\eclipse-workspace\Clase8\pom.xml
+2020-07-20 11:57:34,167 [Worker-371: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libreria:Clase8:0.0.1-SNAPSHOT @ C:\Users\laura.cubillos\eclipse-workspace\Clase8\pom.xml.
+2020-07-20 11:57:34,529 [Worker-371: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase8/src/main/java
+2020-07-20 11:57:34,534 [Worker-371: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase8/src/test/java
+2020-07-20 11:57:34,788 [Worker-371: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-07-20 11:57:36,691 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 11:57:36,692 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 11:57:36,695 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 11:57:36,695 [Worker-375: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 11:58:28,473 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 11:58:28,474 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 11:58:28,476 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 11:58:28,476 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:00:03,578 [Worker-373: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libreria:Clase8:0.0.1-SNAPSHOT @ C:\Users\laura.cubillos\eclipse-workspace\Clase8\pom.xml.
+2020-07-20 12:00:05,356 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:00:05,357 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:00:05,359 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:00:05,359 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:00:05,408 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:00:05,408 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\main\resources
+2020-07-20 12:00:05,411 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:00:05,411 [Worker-373: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\test\resources
+2020-07-20 12:00:06,761 [Worker-377: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:00:06,761 [Worker-377: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:00:06,763 [Worker-377: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:00:06,763 [Worker-377: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:07:17,500 [Worker-379: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\laura.cubillos\eclipse-workspace\Clase8\pom.xml
+2020-07-20 12:07:17,590 [Worker-379: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libreria:Clase8:0.0.1-SNAPSHOT @ C:\Users\laura.cubillos\eclipse-workspace\Clase8\pom.xml.
+2020-07-20 12:07:17,766 [Worker-379: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase8/src/main/java
+2020-07-20 12:07:17,776 [Worker-379: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase8/src/test/java
+2020-07-20 12:07:17,867 [Worker-379: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-07-20 12:07:18,202 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:07:18,203 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:07:18,204 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:07:18,204 [Worker-379: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:07:40,533 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:07:40,533 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:07:40,535 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:07:40,536 [Worker-382: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:09:07,139 [Worker-376: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libreria:Clase8:0.0.1-SNAPSHOT @ C:\Users\laura.cubillos\eclipse-workspace\Clase8\pom.xml.
+2020-07-20 12:09:07,830 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:09:07,830 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:09:07,832 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:09:07,833 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:09:08,182 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:09:08,182 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:09:08,184 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:09:08,184 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:09:41,679 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:09:41,679 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 12:09:41,681 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:09:41,681 [Worker-381: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 12:11:21,241 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:11:21,242 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\main\resources
+2020-07-20 12:11:21,242 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 12:11:21,243 [Worker-376: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\test\resources
+2020-07-20 13:31:35,374 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 13:31:35,375 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 13:31:35,376 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 13:31:35,377 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 13:31:35,414 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 13:31:35,414 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\main\resources
+2020-07-20 13:31:35,415 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 13:31:35,415 [Worker-394: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\clase7\src\test\resources
+2020-07-20 13:47:01,369 [Worker-401: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 13:47:01,370 [Worker-401: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 13:47:01,372 [Worker-401: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 13:47:01,372 [Worker-401: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 14:13:35,782 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:13:35,783 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 14:13:35,784 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:13:35,784 [Worker-407: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 14:18:10,534 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:18:10,534 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 14:18:10,538 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:18:10,538 [Worker-409: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 14:18:47,866 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:18:47,866 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 14:18:47,867 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:18:47,868 [Worker-412: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 14:29:07,832 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:29:07,832 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 14:29:07,834 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:29:07,834 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 14:57:21,123 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:57:21,124 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 14:57:21,126 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 14:57:21,127 [Worker-417: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:22:04,504 [Worker-432: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:22:04,504 [Worker-432: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 15:22:04,505 [Worker-432: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:22:04,506 [Worker-432: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:26:21,458 [Worker-436: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:26:21,458 [Worker-436: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 15:26:21,462 [Worker-436: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:26:21,462 [Worker-436: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:30:46,184 [Worker-439: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:30:46,184 [Worker-439: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 15:30:46,185 [Worker-439: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:30:46,186 [Worker-439: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:43:51,318 [Worker-444: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:43:51,318 [Worker-444: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 15:43:51,319 [Worker-444: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:43:51,320 [Worker-444: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:46:44,540 [Worker-445: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:46:44,540 [Worker-445: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 15:46:44,542 [Worker-445: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:46:44,542 [Worker-445: Launching App (5)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:47:22,717 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:47:22,718 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
+2020-07-20 15:47:22,721 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:47:22,721 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
