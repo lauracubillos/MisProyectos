@@ -10,7 +10,7 @@ public class App
     Driver objDriver = new  Driver();
     objDriver.navegadorGoogle();
     objDriver.navegadorFireFox();
-    objDriver.navegadorInternetExplorer();
+    objDriver.navegadorExplorer();
     	
       
     }

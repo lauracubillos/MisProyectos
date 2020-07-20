@@ -3,7 +3,6 @@ package com.libreria.clase7;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class Driver {
 	WebDriver driver;
@@ -25,10 +24,10 @@ public class Driver {
 			
 		}
 
-	public void navegadorInternetExplorer() {
+	public void navegadorExplorer() {
 			String rutaDriver = ".\\src\\main\\java\\resources\\Drivers\\IEDriverServer.exe";
-	    	System.setProperty("webdriver.IE.DriverServer", rutaDriver);
-			driver = new InternetExplorerDriver();	
+	    	System.setProperty("webdriver.IEDriverServer.driver", rutaDriver);
+			driver = new ExplorerDriver();	
 			driver.get("https://www.google.com/");
 			driver.close();
 	}
