@@ -2141,3 +2141,14 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (3) references 
 2020-07-20 15:47:22,718 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\main\resources
 2020-07-20 15:47:22,721 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-20 15:47:22,721 [Worker-438: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase8\src\test\resources
+2020-07-20 15:53:33,528 [Worker-449: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\laura.cubillos\eclipse-workspace\Clase9\pom.xml
+2020-07-20 15:53:33,936 [Worker-449: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.libreria:Clase9:0.0.1-SNAPSHOT @ C:\Users\laura.cubillos\eclipse-workspace\Clase9\pom.xml.
+2020-07-20 15:53:34,166 [Worker-449: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase9/src/main/java
+2020-07-20 15:53:34,181 [Worker-449: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Clase9/src/test/java
+2020-07-20 15:53:34,336 [Worker-449: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-07-20 15:53:34,810 [Worker-449: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:53:34,811 [Worker-449: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase9\src\main\resources
+2020-07-20 15:53:34,812 [Worker-449: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:53:34,814 [Worker-449: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase9\src\test\resources
+2020-07-20 15:54:40,799 [Worker-451: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-20 15:54:40,799 [Worker-451: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\laura.cubillos\eclipse-workspace\Clase9\src\main\resources
